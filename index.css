@@ -6,3 +6,24 @@
 a:hover{
     color: green;
 }
+.news{
+    background:url(pictures/news.png) no-repeat left center; 
+    background-size: 16px; 
+    display:inline-block;
+    vertical-align:bottom;
+    padding-left: 25px;
+}
+.main{
+    background:url(pictures/main.png) no-repeat left center; 
+    background-size: 16px; 
+    display:inline-block;
+    vertical-align:bottom;
+    padding-left: 25px;
+}
+.conacts{
+    background:url(pictures/contacts.png) no-repeat left center; 
+    background-size: 16px; 
+    display:inline-block;
+    vertical-align:bottom;
+    padding-left: 25px;
+}

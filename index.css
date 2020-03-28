@@ -1,6 +1,7 @@
 .navheader a{
     text-decoration: none;
     text-align: center;
+    font-size: 20px;
 }
 a:hover{
     color: green;

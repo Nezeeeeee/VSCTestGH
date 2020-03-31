@@ -16,28 +16,28 @@ a:hover{
 }
 .news{
     background:url(pictures/news.png) no-repeat left center; 
-    background-size: 16px; 
+    background-size: 25px; 
     display:inline-block;
     vertical-align:bottom;
-    padding-left: 25px;
+    padding-left: 30px;
     margin: 0 50px;
     font-weight: bold;
 }
 .main{
     background:url(pictures/main.png) no-repeat left center; 
-    background-size: 16px; 
+    background-size: 25px; 
     display:inline-block;
     vertical-align:bottom;
-    padding-left: 25px;
+    padding-left: 30px;
     margin: 0 50px;
     font-weight: bold;
 }
 .conacts{
     background:url(pictures/contacts.png) no-repeat left center; 
-    background-size: 16px; 
+    background-size: 25px; 
     display:inline-block;
     vertical-align:bottom;
-    padding-left: 25px;
+    padding-left: 30px;
     margin: 0 50px;
     font-weight: bold;
 }

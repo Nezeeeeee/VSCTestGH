@@ -1,7 +1,8 @@
 .navheader a{
     text-decoration: none;
     text-align: center;
-    font-size: 20px;
+    font-size: 30px;
+    font-family: 'Fira Sans Condensed', sans-serif;
 }
 
 a:link{
@@ -43,7 +44,4 @@ a:hover{
 @font-face{
     font-family: 'Fira Sans Condensed', sans-serif;
     src: url(https://fonts.googleapis.com/css?family=Fira+Sans+Condensed&display=swap);
-}
-a{
-    font-family: 'Fira Sans Condensed', sans-serif;
 }

@@ -6,6 +6,7 @@
     
 }
 
+
 a:link{
     color: black;
 }
@@ -46,4 +47,8 @@ a:hover{
 @font-face{
     font-family: 'Fira Sans Condensed', sans-serif;
     src: url(https://fonts.googleapis.com/css?family=Fira+Sans+Condensed&display=swap);
+}
+.prgrmg{
+    height: 150px;
+    width: 170px;
 }

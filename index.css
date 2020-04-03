@@ -5,6 +5,14 @@
     font-family: 'Fira Sans Condensed', sans-serif;
     
 }
+.navheader{
+    padding-top: 0px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+
+    
+}
 .header{
 background-color: tan;
 }
@@ -23,6 +31,8 @@ padding-top: 0px;
 }
 .contentimg{
     background-color: navajowhite;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
 }
 
 a:link{
@@ -52,6 +62,12 @@ a:hover{
     padding-left: 30px;
     margin: 0 50px;
     font-weight: bold;
+}
+.contentmainnews{
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
 }
 .conacts{
     background:url(pictures/contacts.png) no-repeat left center; 
@@ -131,4 +147,7 @@ a:hover{
     float: none;
     display: inherit;
     text-align: center;
+    background-color: pink;
+    margin-top: 0px;
+    padding-top: 0px;
 }

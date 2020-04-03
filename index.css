@@ -5,7 +5,25 @@
     font-family: 'Fira Sans Condensed', sans-serif;
     
 }
-
+.header{
+background-color: tan;
+}
+.bloghead{
+text-align: center;
+background-color: thistle;
+margin-top: 0px;
+padding-top: 0px;
+}
+.content h1{
+    text-align: center;
+    background-color: thistle;
+    margin-top: 0px;
+    padding-top: 0px;
+    background-color: lemonchiffon;
+}
+.contentimg{
+    background-color: navajowhite;
+}
 
 a:link{
     color: black;
@@ -48,10 +66,69 @@ a:hover{
     font-family: 'Fira Sans Condensed', sans-serif;
     src: url(https://fonts.googleapis.com/css?family=Fira+Sans+Condensed&display=swap);
 }
-.prgrmg{
+.prgrmg1{
     height: 150px;
     width: 170px;
+    border: 3px solid black;
+}
+.prgrmg2{
+    display: inline-block;
+    border: 3px solid black;
+    height: 150px;
+    width: 170px;
+    background-color: rgba(60, 154, 241, 0.452);
+    
+}
+.prgrmg3{
+    display: inline-block;
+    border: 3px solid black;
+    height: 150px;
+    width: 170px;
+    background-color: rgba(40, 15, 100, 0.705);
+}
+.prgrmg4{
+    display: inline-block;
+    border: 3px solid black;
+    height: 150px;
+    width: 170px;
+    background-color: rgba(148, 111, 120, 0.26);
+}
+.prgrmg5{
+    display: inline-block;
+    border: 3px solid black;
+    height: 150px;
+    width: 170px;
+    background-color: rgba(34, 226, 17, 0.705);
+}
+.prgrmg6{
+    display: inline-block;
+    border: 3px solid black;
+    height: 150px;
+    width: 170px;
+    background-color: rgba(70, 119, 108, 0.39);
+}
+.prgrmg7{
+    display: inline-block;
+    border: 3px solid black;
+    height: 150px;
+    width: 170px;
+    background-color: rgba(162, 220, 235, 0.705);
+}
+
+.imgwithtext{ 
+    display: inline-block;
+    margin-left: 70px;
+    border: 2px;
+    text-align: center;
+    align-content: center;
+    
+
 }
 .upNav{
     background-color: lightslategray;
+}
+.githubnews{
+    float: none;
+    display: inherit;
+    text-align: center;
 }
